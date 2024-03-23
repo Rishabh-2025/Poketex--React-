@@ -1,0 +1,19 @@
+.outer-pokemon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+    font-size: 60px;
+  
+}
+
+a:visited{
+    color: rgb(110, 255, 74);
+    text-decoration: none;
+
+}
